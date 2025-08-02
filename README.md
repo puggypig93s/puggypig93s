@@ -15,22 +15,6 @@ I'm passionate about clean architecture, test-driven development, and infrastruc
 
 **Frontend-agnostic but battle-tested with React, Angular, and Blazor** — I bring full-stack ownership from database to UI, always prioritizing performance, usability, and long-term maintainability.
 
-
----
-
-## 📫 Contact
-
-<a href="mailto:milosk920125@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://t.me/lorine93s" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="https://discord.com/users/vlady0751" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-
----
 ---
 
 ## 🛠️ Skills
